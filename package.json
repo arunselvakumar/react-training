@@ -1,0 +1,25 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "description": "react-training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunselvakumar/react-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunselvakumar/react-training/issues"
+  },
+  "homepage": "https://github.com/arunselvakumar/react-training#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "prettier": "^2.1.1"
+  }
+}
