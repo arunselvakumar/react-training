@@ -5,6 +5,7 @@ import useDropDown from './hooks/useDropDown';
 const SearchParams = () => {
   const [location, setLocation] = useState('Seattle, WA');
   const [breeds, setbreeds] = useState([]);
+  const [breeds, setbreeds] = useState([]);
 
   const [animal, AnimalDropDown] = useDropDown('Animal', 'Dog', ANIMALS);
   const [breed, BreedDropDown, setBreed] = useDropDown('Breed', '', breeds);
